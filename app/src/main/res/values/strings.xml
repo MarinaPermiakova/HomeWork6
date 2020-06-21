@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HomeWork6</string>
+    <string name="money_input">Ввод денег</string>
+    <string name="pay_information">Информация об оплате</string>
+    <string name="ok">OK</string>
+    <string name="bank_card">С банковской карты</string>
+    <string name="mobile_phone">С мобильного телефона</string>
+    <string name="cash">Наличными по адресу</string>
+    <string name="error">Ошибка оплаты.</string>
+    <string name="success">Оплата осуществлена.</string>
+</resources>
